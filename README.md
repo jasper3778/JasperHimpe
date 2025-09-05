@@ -5,7 +5,7 @@ Student at Campus VTI Waregem
 * Age: 17 <br />
 * Location: Waregem, West Flanders, Belguim <br />
 ## History
-Campus College Waregem, 1-2, Economie
-Campus VTI Waregem, 3, Elektrotechnieken
-Campus Hemelvaart Waregem, 3-4, Taal en Communicatie
-Campus VTI Waregem, 5-6, Applicatie en Databeheer
+Campus College Waregem, 1-2, Economie <br />
+Campus VTI Waregem, 3, Elektrotechnieken <br />
+Campus Hemelvaart Waregem, 3-4, Taal en Communicatie <br />
+Campus VTI Waregem, 5-6, Applicatie en Databeheer <br />
