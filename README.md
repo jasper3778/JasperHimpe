@@ -1,6 +1,6 @@
 # JasperHimpe
 Student at Campus VTI Waregem
 ## About me
-Name: Jasper Himpe
-Age: 17
-Location: Waregem, West Flanders, Belguim
+Name: Jasper Himpe <br />
+Age: 17 <br />
+Location: Waregem, West Flanders, Belguim <br />
